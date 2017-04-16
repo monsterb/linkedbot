@@ -7,11 +7,6 @@
 <p>- Login automatically.</p>
 <p>- Wait 15 seconds and logout automatically.</p>
 
-<pre>
-Maintainer: monsterb
-Contact: UNIX.S3C (at) gmail (dot) com
-URL: <a href="http://monsterb.github.io">http://monsterb.github.io</a>
-</pre>
 
 <p>Requirements:</p>
 
@@ -19,14 +14,16 @@ URL: <a href="http://monsterb.github.io">http://monsterb.github.io</a>
 
 <p>Download ChromeDriver from <a href="https://sites.google.com/a/chromium.org/chromedriver/">here</a>.</p>
 
-
+<br />
+<br />
 
 <p><a href="http://www.seleniumhq.org/">Selenium</a> - Web browser automation.</p>
 
 <p>Install Selenium with pip3:</p>
 <code># pip3 install selenium</code>
 
-
+<br />
+<br />
 
 <p><a href="http://tox.readthedocs.io/en/latest/">Tox</a> automation project is a generic virtualenv management and test command line tool.</p>
 
