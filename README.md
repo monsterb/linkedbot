@@ -3,6 +3,7 @@
 
 <p>What it does so far:</p>
 <p>- Starts Chrome browser.</p>
+<p>- Loads up linkedin.</p>
 <p>- Enters your email and password automatically.</p>
 <p>- Login automatically.</p>
 <p>- Wait 15 seconds and logout automatically.</p>
